@@ -1,2 +1,2 @@
-# rentquity-website
-Just a landing page
+# Rentquity
+Official website for Rentquity
