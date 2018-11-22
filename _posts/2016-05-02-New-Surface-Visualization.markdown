@@ -1,7 +1,7 @@
 ---
 layout:     plysurface
 title:      New Surface Visualization
-author:     Ahmet Cecen
+author:     Calvin Kim
 tags: 		plysurface visualization template
 subtitle:   Some Short Description of the Visualization
 

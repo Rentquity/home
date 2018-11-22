@@ -1,16 +1,16 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+title: Rentquity
+description: "Allowing renters to live in multiple cities for the price of 1 apartment"
+url: "https://rentquity.github.io/home/"
 
 
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/home2"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /home2/img/logos/Project-Pages-New-Logo-Inverted.jpg
 
 # Tertiary Parameters
 github_username:  projectpages
