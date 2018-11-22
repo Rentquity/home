@@ -1,7 +1,7 @@
 # Site settings
 title: Rentquity
 description: "Allowing renters to live in multiple cities for the price of 1 apartment"
-url: "https://rentquity.github.io/home/"
+url: "https://rentquity.github.io/"
 
 
 
@@ -10,7 +10,7 @@ url: "https://rentquity.github.io/home/"
 baseurl: "/home"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /home2/img/logos/Project-Pages-New-Logo-Inverted.jpg
+logo: /home/img/logos/Project-Pages-New-Logo-Inverted.jpg
 
 # Tertiary Parameters
 github_username:  projectpages
