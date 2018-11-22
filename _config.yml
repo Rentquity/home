@@ -7,7 +7,7 @@ url: "https://rentquity.github.io/home/"
 
 
 # Secondary Parameters
-baseurl: "/home2"
+baseurl: "/home"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /home2/img/logos/Project-Pages-New-Logo-Inverted.jpg
