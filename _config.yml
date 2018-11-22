@@ -10,7 +10,7 @@ url: "https://rentquity.github.io/"
 baseurl: "/home"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /home/img/logos/Project-Pages-New-Logo-Inverted.jpg
+logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  projectpages

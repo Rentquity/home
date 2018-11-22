@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
+description: "What is Rentquity?"
 header-img: "img/home-bg.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+Rentquity is here to solve the common problem of wasting equity from renting. If you travel frequently or even take a vacation, you waste the days of rent that you're not at home. Through our specialized program, we allow you to put those wasted days of rent towards housing wherever you travel.
 	
